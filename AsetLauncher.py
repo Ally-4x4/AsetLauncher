@@ -1,13 +1,12 @@
 
 
 /**
- * AsetLauncher Website Template
- * Веб-шаблон лаунчера AsetLauncher
+ * AsetLauncher
+ * Шаблон лаунчера AsetLauncher
  * 
- * @version 1.0
+ * @version 1.3
  * @author Винцкевич Михаил Радионович
  * @copyright © 2023-2025 Винцкевич Михаил Радионович. Все права защищены.
- * @license Коммерческая лицензия - см. LICENSE.md
  * @website asetlauncher.ru
  * @email asetlauncher@gmail.com
  * 
